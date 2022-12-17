@@ -3,4 +3,4 @@ Silabus Rekayasa Perangkat Lunak kelas 5:
 - Framework Bootsrap
 - Framework Codeigniter
 - DBMS Mysql
-- Aplikasi Sosial Media Kelas 5
+- Website Biasa
